@@ -1,0 +1,1 @@
+Il mio bilancio v1.1 - sito statico per GitHub Pages. Caricare i cinque file index.html, app.js, sw.js, manifest.webmanifest, icon.svg nella radice del repository. Non caricare backup JSON o dati personali. I dati sono in localStorage (non cifrati). Eseguire backup periodici. Non e stata svolta una verifica di sicurezza indipendente. Il backup della versione 1.0 e compatibile.
